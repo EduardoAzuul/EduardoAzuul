@@ -1,8 +1,3 @@
-             ,-.
-     ,      ( {o\
-     {`"=,___) (`~
-      \  ,_.-   )
-~^~^~^`- ~^ ~^ '~^~^~^~
 
 - 👋 Hi, I’m Eduardo Moreno
 - 👀 I’m interested in Animation, music and videogames
