@@ -10,13 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning computer graphics<br>🎯 Goals: work as a data analist<br>🎲 Fun fact: I also study animation engineering</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning computer graphics<br>🎯 Goals: get my first internship<br>🎲 Fun fact: I also study animation engineering</p>
 
-###
 
-<div align="center">
-  <img height="200" src="https://www.notion.so/images/page-cover/rijksmuseum_avercamp_1608.jpg"  />
-</div>
 
 ###
 
